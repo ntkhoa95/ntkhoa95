@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/iYLkxltcRY0AAAAC/bamboo-bamboo-panda.gif" width="200"/>
+  <img src="https://media.tenor.com/10Dv75I2JYQAAAAd/bamboo-panda-panda.gif" width="400"/>
 </div>
 <!-- Social media -->
 <div align="center">
