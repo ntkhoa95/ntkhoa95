@@ -3,7 +3,6 @@
 </div>
 <!-- Social media -->
 <div align="center">
-    🇻🇳
 </div>
 <!-- https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif -->
 <!-- https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif -->
