@@ -11,7 +11,7 @@
 <!-- https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif -->
 <!-- Hello World -->
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=435&lines=Danke%2C+I'm+Niko+%F0%9F%25%8B" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=435&lines=Danke%2C+I'm+Niko+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
 <!-- About me -->
