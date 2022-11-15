@@ -25,9 +25,8 @@ Profile = {
     "Majors": [Electrical Engineering, Automotive Engineering],
     "Major_detail": [
         "My research interests mainly include timeseries data, visual perception, and image segmentation for autonomous driving. 
-        Specifically, I am working on various techniques from traditional image processing to taking the advantages of deep learning methods 
-        to develop efficient self-supervised approachs for segmentation using RGB-D data as inputs. 
-        I am also working on Vision Inspection and CCTV at Samsung SDS."
+        Specifically, I am working on various techniques from traditional image processing to taking the advantages of 
+        deep learning methods to develop efficient self-supervised approachs for segmentation using RGB-D data as inputs."
     ],
     "Current_focused_fields": [Image Processing, Computer Vision, Image Segmentation, Anomaly Detection],
     "University": "NTUST",
