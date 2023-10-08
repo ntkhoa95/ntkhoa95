@@ -23,7 +23,7 @@ Profile = {
     "Nationality": ["Vietnam"],
     "Majors": [Computer Vision, Image Processing, Machine Vision],
     "Current_focused_fields": [Image Processing, Computer Vision, Image Segmentation, Anomaly Detection],
-    "Company": "Samsung SDS"
+    "Company": "FPT AI Center"
 }
 ```
 
