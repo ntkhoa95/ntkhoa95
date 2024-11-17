@@ -1,41 +1,33 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/10Dv75I2JYQAAAAd/bamboo-panda-panda.gif" width="720"/>
-</div>
-<!-- Social media -->
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Niko;Edge+AI+Technical+Leader;Computer+Vision+Engineer" alt="Typing SVG" />
+  </a>
 </div>
-<!-- https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif -->
-<!-- https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif -->
-<!-- https://media.giphy.com/media/Xes8GCa4EGgve/giphy.gif -->
-<!-- https://media.giphy.com/media/VEzvhUTdejvdsItmbD/giphy.gif -->
-<!-- https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif -->
-<!-- Hello World -->
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=435&lines=Danke%2C+I'm+Niko+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</h1>
 
-<!-- About me -->
-<h2 align="left">:poop: About me</h2>
+# 👋 Hello!
 
-```Python
-Profile = {
-    "Name": ["Khoa", "Toan-Khoa Nguyen", "Niko", "Nguyễn Toàn Khoa"],
-    "Nationality": ["Vietnam"],
-    "Majors": [Computer Vision, Image Processing, Machine Vision],
-    "Current_focused_fields": [Image Processing, Computer Vision, Image Segmentation, Anomaly Detection],
-    "Company": "FPT AI Center"
-}
-```
+Glad to see you here! I'm Niko, an **AI Explorer** with a deep passion for pushing the boundaries of **Edge Computing** and **Computer Vision**.
 
-<!-- Github Stats -->
-<h2 align="left">
-    :bar_chart: Github Stats
-</h2>
+I'm currently leading the EdgeAI team at FPT AI Center, where we're transforming the way AI operates on edge devices. My technological compass points towards:
+- 🧠 Computer Vision & Image Processing
+- 📱 Edge AI Optimization & Quantization
+- 🤖 LLM Assistant Development
+- 🔍 Machine Vision & Anomaly Detection
+
+Armed with a master's degree in Electrical Engineering, I specialized in anomaly detection, laying the foundation for my current work in making AI more accessible and efficient. My journey in the tech world is fueled by three core passions:
+- Writing code that makes a difference
+- Connecting with open-minded innovators
+- Creating solutions that contribute to a better world for humanity
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ntkhoa95&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="ntkhoa95">
-    <img src="https://streak-stats.demolab.com?user=ntkhoa95&theme=github-dark-blue" alt="ntkhoa95">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ntkhoa95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ntkhoa95&theme=tokyonight&hide_border=true"/>
 </div>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhoa95&layout=compact&include_all_commits=true&theme=github_dark&count_private=true" alt="ntkhoa95">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhoa95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
-<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ntkhoa95&style=flat-square&color=blue" alt="Profile views"/>
+</div>
